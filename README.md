@@ -1,21 +1,9 @@
-<div style="text-align: center; padding-top:25px">
-        <img src="https://raw.githubusercontent.com/5hraddha/misc/467e0a672fe146bef8b3dd384df3db2bc8cfbd2e/images/zyfra-logo.png" style="max-height:150px;" />
-    <div style="   padding-top: 25px;
-                   font-weight:700;
-                   letter-spacing:1px; 
-                   line-height:1.2;">
-        <p style=" font-size:30px; 
-                   color: #28B463;
-                   text-transform: uppercase;
-                   text-align: center;
-                   padding-bottom: 6px;
-                   border-bottom: 1px solid #ABEBC6;">Gold Recovery Prediction</p>
-        <p style=" margin: 0;
-                   padding-top: 6px;
-                   font-size:24px;
-                   text-align: center;">Optimizing Efficiency in Gold Ore Processing using ML</p>
-    </div>
+<div align='center'>
+        <img src="https://raw.githubusercontent.com/5hraddha/misc/467e0a672fe146bef8b3dd384df3db2bc8cfbd2e/images/zyfra-logo.png" height='150' />
+        <h1>Gold Recovery Prediction</h1>
+        <p><b>Optimizing Efficiency in Gold Ore Processing using ML</b></p>
 </div>
+
 In the rapidly evolving landscape of heavy industries, efficiency and optimization have become paramount for sustainable growth and profitability. The gold mining sector, in particular, faces _the challenge of extracting maximum value from its raw materials while minimizing wastage and inefficiencies_. To address these challenges, **[Zyfra](https://www.zyfra.com/)**, a pioneering developer of **efficiency solutions for heavy industries**, is aiming to take help of machine learning to optimize the efficiency in Gold Ore processing.
 
 This project centers around the **application of machine learning to predict the amount of gold that can be recovered from gold ore during the extraction and purification processes**. By accurately forecasting gold recovery rates, mining operations can optimize production, reduce operational costs, and eliminate unprofitable parameters.
